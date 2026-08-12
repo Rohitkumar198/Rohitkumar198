@@ -42,20 +42,6 @@ I enjoy working with modern JavaScript technologies and continuously improving m
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 🚀 What I Build
-
-- 🌐 Responsive Web Applications
-- ⚛️ React & Next.js Applications
-- 🔌 RESTful APIs
-- 🔐 Authentication & Authorization Systems
-- 🗄️ MongoDB & MySQL Applications
-- 📱 Responsive UI using Tailwind CSS, Bootstrap & Material UI
-- 🚀 Full Stack Applications with MERN
-
----
-
 ## 📌 Featured Projects
 
 ### 🕉️ JP Panditji
