@@ -65,4 +65,4 @@ A full-stack platform for discovering and booking Pandits for different religiou
 
 ---
 
-⭐ **Thanks for visiting my profile!** isko precise rakho
+⭐ **Thanks for visiting my profile!**
