@@ -8,19 +8,6 @@ I enjoy working with modern JavaScript technologies and continuously improving m
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💻 Full Stack Developer focused on **MERN Stack**
-- ⚛️ Strong interest in **React.js & Next.js**
-- 🔧 Building RESTful APIs with **Node.js & Express.js**
-- 🗄️ Working with **MongoDB & MySQL**
-- 🔐 Experience with **JWT Authentication**
-- 🏗️ Interested in **MVC Architecture & scalable applications**
-- 🚀 Deploying applications using **Vercel & Render**
-- 📚 Always learning and exploring new technologies
-
----
-
 ## 🛠️ Languages & Technologies
 
 ### Languages
@@ -54,18 +41,6 @@ I enjoy working with modern JavaScript technologies and continuously improving m
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
