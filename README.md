@@ -2,11 +2,11 @@
 
 ### 🚀 MERN Stack Developer | React.js | Next.js | Node.js
 
-I'm a passionate Full Stack Developer focused on building responsive, scalable and user-friendly web applications.
-
-I enjoy working with modern JavaScript technologies and continuously improving my development skills.
-
----
+Full Stack Developer Intern at CBBC Wonders Pvt. Ltd. with hands-on experience building scalable, production-ready
+web applications using the MERN Stack and Next.js. Skilled in developing responsive user interfaces, secure backend APIs,
+RESTful services, and JWT-based authentication and authorization. Experienced in the complete software development
+lifecycle, from database design to deployment, while collaborating with cross-functional teams using Git and Jira to deliver
+reliable, user-centric applica
 
 ## 🛠️ Languages & Technologies
 
