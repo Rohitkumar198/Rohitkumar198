@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rohit Kumar
 
-### 🚀 MERN Stack Developer | React.js | Next.js | Node.js | MongoDb
+### 🚀 MERN Stack Developer | React.js | Next.js | Node.js | MongoDB
 
 Full Stack Developer Intern at CBBC Wonders Pvt. Ltd. with hands-on experience building scalable, production-ready
 web applications using the MERN Stack and Next.js. Skilled in developing responsive user interfaces, secure backend APIs,
