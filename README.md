@@ -2,7 +2,7 @@
 
 ### MERN Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB
 
-Full Stack Developer Intern at CBBC Wonders Pvt. Ltd. with hands-on experience building scalable, production-ready
+Full Stack Developer at CBBC Wonders Pvt. Ltd. with hands-on experience building scalable, production-ready
 web applications using the MERN Stack and Next.js. Skilled in developing responsive user interfaces, secure backend APIs,
 RESTful services, and JWT-based authentication and authorization. Experienced in the complete software development
 lifecycle, from database design to deployment, while collaborating with cross-functional teams using Git and Jira to deliver
