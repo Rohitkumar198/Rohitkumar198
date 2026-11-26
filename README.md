@@ -56,6 +56,8 @@ A full-stack platform for discovering and booking Pandits for different religiou
 **Tech Stack:**  
 `Next.js` `React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
 
+Live Demo: [https://jipanditji.com](https://jipanditji.com)
+
 ---
 
 ## 🤝 Connect With Me
