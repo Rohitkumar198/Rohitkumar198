@@ -47,6 +47,11 @@ reliable, user-centric applica
 
 ### 🕉️ JP Panditji
 A full-stack platform for discovering and booking Pandits for different religious services.
+- Built and maintained production-level full-stack platforms for **Online Puja Booking and Satvik Store E-commerce**, supporting real users through responsive and scalable web applications.
+- Developed end-to-end puja booking workflows, including Pandit discovery, service selection, appointment scheduling, and booking management.
+- Implemented e-commerce functionalities such as product catalog, shopping cart, checkout, order management, and product administration.
+- Designed and integrated RESTful APIs with role-based access control (RBAC) to manage users, Pandits, bookings, products, and orders securely.
+- Developed Pandit profile management, religious service listings, and administrative features to improve platform usability and customer experience.
 
 **Tech Stack:**  
 `Next.js` `React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
