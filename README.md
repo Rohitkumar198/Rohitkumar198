@@ -45,7 +45,7 @@ reliable, user-centric applica
 
 ## 📌 Featured Projects
 
-### 🕉️ JP Panditji
+### 🕉️ JiPanditji
 A full-stack platform for discovering and booking Pandits for different religious services.
 - Built and maintained production-level full-stack platforms for **Online Puja Booking and Satvik Store E-commerce**, supporting real users through responsive and scalable web applications.
 - Developed end-to-end puja booking workflows, including Pandit discovery, service selection, appointment scheduling, and booking management.
